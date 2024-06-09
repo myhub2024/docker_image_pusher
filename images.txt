@@ -1,4 +1,4 @@
 alpine
 dockurr/windows
 qemux/qemu-docker
- laoyutang/clash-and-dashboard
+laoyutang/clash-and-dashboard
