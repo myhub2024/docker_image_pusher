@@ -5,3 +5,4 @@ laoyutang/clash-and-dashboard
 jellyfin/jellyfin
 redroid/redroid
 dockurr/windows-arm
+dockurr/macos
