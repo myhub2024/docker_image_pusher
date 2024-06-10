@@ -6,4 +6,4 @@ jellyfin/jellyfin
 redroid/redroid
 dockurr/windows-arm
 dockurr/macos
-onlyoffice/documentserver:8.0.1.1
+onlyoffice/documentserver
