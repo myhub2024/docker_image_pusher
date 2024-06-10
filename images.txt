@@ -7,3 +7,4 @@ redroid/redroid
 dockurr/windows-arm
 dockurr/macos
 onlyoffice/documentserver
+redis
