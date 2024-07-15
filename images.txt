@@ -8,3 +8,4 @@ dockurr/windows-arm
 dockurr/macos
 onlyoffice/documentserver
 redis
+snowdreamtech/frpc:0.59.0
