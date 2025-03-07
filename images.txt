@@ -11,3 +11,4 @@ snowdreamtech/frpc:0.59.0
 stilleshan/tinyproxy
 dperson/samba
 onlyoffice/documentserver:latest
+onlyoffice/documentserver:8.3.1.1
