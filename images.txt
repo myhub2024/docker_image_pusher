@@ -6,8 +6,8 @@ jellyfin/jellyfin
 redroid/redroid
 dockurr/windows-arm
 dockurr/macos
-onlyoffice/documentserver
 redis
 snowdreamtech/frpc:0.59.0
 stilleshan/tinyproxy
 dperson/samba
+onlyoffice/documentserver:latest
